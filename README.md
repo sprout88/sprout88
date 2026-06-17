@@ -1,16 +1,16 @@
-## Hi there 👋
+Software Engineer & Security Researcher
 
-<!--
-**sprout88/sprout88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SEOUL, S.KOREA.
 
-Here are some ideas to get you started:
+B.S in Electrical and Electronics Engineering, Dongguk Univ. Seoul
+B.S. in Software Convergence, Dongguk Univ. Seoul
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Kitri Best of Best 13th
+GRAPE pwn club
+
+PhD Student in Computer Science at Dartmouth College
+
+PowDew : Detecting Counterfeit Powdered Food Products using a Commodity Smartphone (https://dl.acm.org/doi/10.1145/3643832.3661877)
+
+cve-2025-4437 (https://access.redhat.com/security/cve/cve-2025-4437)
+cve-2025-0759 (https://access.redhat.com/security/cve/cve-2025-0750)
